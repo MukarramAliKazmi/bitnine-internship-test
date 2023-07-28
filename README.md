@@ -32,9 +32,15 @@ Screenshots in `/Q5/screenshots` and `/Q6/screenshots` folders
 
 https://www.youtube.com/watch?v=FLiaeU_yIic
 
-## Deployment using Netlify (frontend only):
+## Deployment using Netlify and Vercel:
 
- https://bitnine.netlify.com
+The project is deployed using the following URLs:
+Frontend:
+- Netlify: [bitnine.netlify.com](https://bitnine.netlify.com)
+- Vercel: [bitnine-frontend.vercel.app](https://bitnine-frontend.vercel.app)
+
+Backend:
+- Vercel: [bitninebackend.vercel.app](https://bitninebackend.vercel.app/)
 
 # Q6
 
