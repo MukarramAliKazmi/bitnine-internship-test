@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=FLiaeU_yIic
 ## Deployment using Netlify and Vercel:
 
 The project is deployed using the following URLs:
+
 Frontend:
 - Netlify: [bitnine.netlify.com](https://bitnine.netlify.com)
 - Vercel: [bitnine-frontend.vercel.app](https://bitnine-frontend.vercel.app)
