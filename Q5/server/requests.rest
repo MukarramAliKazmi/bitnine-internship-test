@@ -1,0 +1,29 @@
+###
+POST http://localhost:8080/signup
+Content-Type: application/json
+
+{
+    "firstname": "Taqi",
+    "lastname": "Abbas",
+    "email": "taqi@email.com",
+    "password": "taqi"
+}
+
+###
+POST http://localhost:8080/login
+Content-Type: application/json
+
+{
+    "email": "taqi@email.com",
+    "password": "taqi"
+}
+
+###
+DELETE http://localhost:8080/logout
+
+###
+GET http://localhost:8080/refresh
+
+###
+GET http://localhost:8080/privateuserdata/5d2896d1-43bc-486b-9b02-e998afc9db48
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVkMjg5NmQxLTQzYmMtNDg2Yi05YjAyLWU5OThhZmM5ZGI0OCIsImZpcnN0bmFtZSI6IlRhcWkiLCJsYXN0bmFtZSI6IkFiYmFzIiwiZW1haWwiOiJ0YXFpQGVtYWlsLmNvbSIsImlhdCI6MTY5MDM4MTU1NSwiZXhwIjoxNjkwMzgyNDU1fQ.o1lT4-2Jb6UaAWjn8CetT6aznALAaV3UVhyQO3JH29g
