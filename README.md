@@ -21,8 +21,12 @@ Uses JWT tokens for auth and ESLint for code styling consistency.
 ## To run:
 
 Run the following in both server & client folders:
-- npm install
-- npm run dev
+- `npm install`
+- `npm run dev`
+
+## Screenshots
+
+Screenshots in `/Q5/screenshots` and `/Q6/screenshots` folders
 
 ## Screenrecording Link: 
 
